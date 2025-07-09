@@ -168,7 +168,7 @@ Custom error pages
 
 🚀 Deployment
 Deploy MedTrack on AWS EC2 with Gunicorn and Nginx for production, or use platforms like Heroku for simplicity. Ensure environment variables are securely configured.
-🌐 Live Demo
-(Add your hosted URL here if applicable)
+📽 Demo Video
+(https://drive.google.com/file/d/145f5Jl4EBcoA_VKUc3s_zw6NXZI1N3Qk/view?usp=sharing)
 👨‍💻 Author
-Sai Kamal📧 Email: saikamalsuro@gmail.com🌐 GitHub: @saikamal
+Sai Kamal📧 Email: saikamalsuro1@gmail.com🌐 GitHub: https://github.com/Saikamalsuro
